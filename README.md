@@ -61,7 +61,7 @@ If you'd rather do everything by hand, just add the folder "WJModel" to your pro
 ```
 
 #Demo
-We already put the demo project in the [repository](https://github.com/dustturtle/WJModel).
+We already put the demo project in the [repository](https://github.com/Mars182838/WJModel).
 
 # License
 
